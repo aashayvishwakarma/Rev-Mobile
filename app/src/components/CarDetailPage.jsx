@@ -20,7 +20,11 @@ export default function CarDetailPage({ car, onBack }) {
         <img
           src={car.image}
           alt={car.name}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover bg-[#1a1a1a]"
+          onError={e => {
+            e.target.onerror = null
+            e.target.src = `https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80&fit=crop&auto=format`
+          }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/70" />
         <button

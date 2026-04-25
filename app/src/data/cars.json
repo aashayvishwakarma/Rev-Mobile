@@ -9,7 +9,7 @@
     "wouldBuy": 89,
     "trending": 12,
     "categories": ["Sports", "Coupe"],
-    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=600&q=80&fit=crop&auto=format",
+    "image": "/src/assets/porche-911-gt3.jpg",
     "ratingBreakdown": {
       "comfort": 7.8,
       "speed": 9.4,
@@ -53,7 +53,7 @@
     "wouldBuy": 83,
     "trending": 5,
     "categories": ["Electric", "Sedan", "Luxury"],
-    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 9.1,
       "speed": 9.8,
@@ -97,7 +97,7 @@
     "wouldBuy": 78,
     "trending": 8,
     "categories": ["Sports", "Coupe", "Luxury"],
-    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80&fit=crop&auto=format",
+    "image": "/src/assets/bmw m4 comp.jpg",
     "ratingBreakdown": {
       "comfort": 8.0,
       "speed": 9.1,
@@ -141,7 +141,7 @@
     "wouldBuy": 85,
     "trending": 15,
     "categories": ["Sports", "Coupe", "Luxury"],
-    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 8.5,
       "speed": 9.3,
@@ -185,7 +185,7 @@
     "wouldBuy": 91,
     "trending": 3,
     "categories": ["Sports", "Coupe"],
-    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 6.5,
       "speed": 9.8,
@@ -229,7 +229,7 @@
     "wouldBuy": 88,
     "trending": 7,
     "categories": ["Sports", "Coupe"],
-    "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 7.2,
       "speed": 9.7,
@@ -273,7 +273,7 @@
     "wouldBuy": 87,
     "trending": 6,
     "categories": ["Luxury", "Sports"],
-    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 9.0,
       "speed": 9.0,
@@ -317,7 +317,7 @@
     "wouldBuy": 86,
     "trending": 9,
     "categories": ["Sports", "Coupe"],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80&fit=crop&auto=format",
+    "image": "/src/assets/McLaren 720s.jpg",
     "ratingBreakdown": {
       "comfort": 7.5,
       "speed": 9.9,
@@ -361,7 +361,7 @@
     "wouldBuy": 76,
     "trending": 11,
     "categories": ["SUV", "Luxury"],
-    "image": "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=600&q=80&fit=crop&auto=format",
+    "image": "/src/assets/range rover sport.jpg",
     "ratingBreakdown": {
       "comfort": 9.4,
       "speed": 7.8,
@@ -405,7 +405,7 @@
     "wouldBuy": 90,
     "trending": 4,
     "categories": ["Sports", "Coupe"],
-    "image": "https://images.unsplash.com/photo-1625231338168-c2b0b5b3de3a?w=600&q=80&fit=crop&auto=format",
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=800&q=80&fit=crop&auto=format",
     "ratingBreakdown": {
       "comfort": 7.2,
       "speed": 8.0,

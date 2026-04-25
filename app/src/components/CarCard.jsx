@@ -7,7 +7,11 @@ export default function CarCard({ car, onClick }) {
       <img
         src={car.image}
         alt={car.name}
-        className="w-20 h-20 rounded-xl object-cover flex-shrink-0"
+        className="w-20 h-20 rounded-xl object-cover flex-shrink-0 bg-[#2a2a2a]"
+        onError={e => {
+          e.target.onerror = null
+          e.target.src = `https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=200&q=80&fit=crop&auto=format`
+        }}
       />
       <div className="flex-1 min-w-0">
         <h3 className="text-white font-semibold text-base leading-tight">{car.name}</h3>
