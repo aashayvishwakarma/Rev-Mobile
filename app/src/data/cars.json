@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "name": "Porsche 911 GT3",
+    "brand": "Porsche",
+    "year": 2023,
+    "rating": 9.2,
+    "reviewCount": 284,
+    "wouldBuy": 89,
+    "trending": 12,
+    "categories": ["Sports", "Coupe"],
+    "image": "/src/assets/porche-911-gt3.jpg",
+    "ratingBreakdown": {
+      "comfort": 7.8,
+      "speed": 9.4,
+      "handling": 9.1,
+      "interior": 8.3,
+      "reliability": 7.5,
+      "value": 6.8
+    },
+    "mostLovedFeatures": [
+      { "feature": "Incredible handling", "count": 142 },
+      { "feature": "Raw driving experience", "count": 128 },
+      { "feature": "Track-ready performance", "count": 95 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Expensive options", "count": 64 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Alex Chen",
+        "initials": "AC",
+        "rating": 9.5,
+        "date": "2 weeks ago",
+        "text": "The GT3 is everything I dreamed of and more. The steering feel is absolutely phenomenal."
+      },
+      {
+        "author": "Sarah Martinez",
+        "initials": "SM",
+        "rating": 9.0,
+        "date": "1 month ago",
+        "text": "Incredible track car, but daily driving is a challenge. Worth it for the weekends!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model S Plaid",
+    "brand": "Tesla",
+    "year": 2024,
+    "rating": 8.8,
+    "reviewCount": 512,
+    "wouldBuy": 83,
+    "trending": 5,
+    "categories": ["Electric", "Sedan", "Luxury"],
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 9.1,
+      "speed": 9.8,
+      "handling": 8.5,
+      "interior": 9.2,
+      "reliability": 7.8,
+      "value": 7.2
+    },
+    "mostLovedFeatures": [
+      { "feature": "Ludicrous acceleration", "count": 289 },
+      { "feature": "Autopilot technology", "count": 241 },
+      { "feature": "Massive touchscreen display", "count": 178 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Build quality inconsistency", "count": 89 }
+    ],
+    "recentReviews": [
+      {
+        "author": "James Park",
+        "initials": "JP",
+        "rating": 9.0,
+        "date": "3 days ago",
+        "text": "The Plaid literally pins you to your seat. 0-60 in under 2 seconds is insane. FSD is getting better every update."
+      },
+      {
+        "author": "Lisa Wong",
+        "initials": "LW",
+        "rating": 8.5,
+        "date": "2 weeks ago",
+        "text": "Love the tech but had some panel gaps on delivery. Software is outstanding though."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BMW M4 Competition",
+    "brand": "BMW",
+    "year": 2023,
+    "rating": 8.5,
+    "reviewCount": 398,
+    "wouldBuy": 78,
+    "trending": 8,
+    "categories": ["Sports", "Coupe", "Luxury"],
+    "image": "/src/assets/bmw m4 comp.jpg",
+    "ratingBreakdown": {
+      "comfort": 8.0,
+      "speed": 9.1,
+      "handling": 9.0,
+      "interior": 8.7,
+      "reliability": 7.9,
+      "value": 6.9
+    },
+    "mostLovedFeatures": [
+      { "feature": "Twin-turbo power delivery", "count": 198 },
+      { "feature": "M chassis dynamics", "count": 167 },
+      { "feature": "Premium interior quality", "count": 143 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Controversial front grille", "count": 112 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Tom Harris",
+        "initials": "TH",
+        "rating": 8.8,
+        "date": "1 week ago",
+        "text": "M xDrive makes this a genuinely usable everyday sports car. Performance is staggering."
+      },
+      {
+        "author": "Mia Johnson",
+        "initials": "MJ",
+        "rating": 8.0,
+        "date": "3 weeks ago",
+        "text": "Brilliant car but the front grille took some getting used to. Drive dynamics are flawless."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz AMG GT",
+    "brand": "Mercedes-Benz",
+    "year": 2023,
+    "rating": 8.9,
+    "reviewCount": 267,
+    "wouldBuy": 85,
+    "trending": 15,
+    "categories": ["Sports", "Coupe", "Luxury"],
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 8.5,
+      "speed": 9.3,
+      "handling": 8.8,
+      "interior": 9.4,
+      "reliability": 8.1,
+      "value": 7.0
+    },
+    "mostLovedFeatures": [
+      { "feature": "V8 exhaust note", "count": 154 },
+      { "feature": "Luxurious interior", "count": 132 },
+      { "feature": "Aggressive styling", "count": 109 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "High maintenance costs", "count": 71 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Chris Davis",
+        "initials": "CD",
+        "rating": 9.2,
+        "date": "5 days ago",
+        "text": "The AMG GT is a proper sports car with Mercedes luxury. That exhaust sound at startup never gets old."
+      },
+      {
+        "author": "Nina Patel",
+        "initials": "NP",
+        "rating": 8.5,
+        "date": "2 months ago",
+        "text": "Stunning to look at and thrilling to drive. The MBUX system is top notch."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lamborghini Huracán EVO",
+    "brand": "Lamborghini",
+    "year": 2023,
+    "rating": 9.5,
+    "reviewCount": 189,
+    "wouldBuy": 91,
+    "trending": 3,
+    "categories": ["Sports", "Coupe"],
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 6.5,
+      "speed": 9.8,
+      "handling": 9.6,
+      "interior": 8.5,
+      "reliability": 7.0,
+      "value": 5.5
+    },
+    "mostLovedFeatures": [
+      { "feature": "V10 naturally aspirated engine", "count": 162 },
+      { "feature": "Explosive performance", "count": 145 },
+      { "feature": "Head-turning design", "count": 138 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Very expensive", "count": 89 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Ryan Lee",
+        "initials": "RL",
+        "rating": 9.8,
+        "date": "1 week ago",
+        "text": "There's nothing like the Huracán's V10 scream. Every drive feels like an event."
+      },
+      {
+        "author": "Emma Clarke",
+        "initials": "EC",
+        "rating": 9.0,
+        "date": "6 weeks ago",
+        "text": "Ownership is a dream and a challenge. The performance is unreal but you live at the service center."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ferrari 488 GTB",
+    "brand": "Ferrari",
+    "year": 2022,
+    "rating": 9.4,
+    "reviewCount": 203,
+    "wouldBuy": 88,
+    "trending": 7,
+    "categories": ["Sports", "Coupe"],
+    "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 7.2,
+      "speed": 9.7,
+      "handling": 9.5,
+      "interior": 8.8,
+      "reliability": 7.2,
+      "value": 5.8
+    },
+    "mostLovedFeatures": [
+      { "feature": "Twin-turbo V8 power", "count": 171 },
+      { "feature": "Razor-sharp handling", "count": 148 },
+      { "feature": "Ferrari heritage", "count": 121 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Exclusivity waitlists", "count": 67 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Marco Rossi",
+        "initials": "MR",
+        "rating": 9.5,
+        "date": "2 weeks ago",
+        "text": "The 488 GTB is Ferrari at its finest. The twin-turbo V8 has power everywhere in the rev range."
+      },
+      {
+        "author": "Katie Brown",
+        "initials": "KB",
+        "rating": 9.2,
+        "date": "1 month ago",
+        "text": "Absolutely thrilling. You need to experience it on a track to really appreciate what it can do."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Audi RS6 Avant",
+    "brand": "Audi",
+    "year": 2024,
+    "rating": 8.7,
+    "reviewCount": 445,
+    "wouldBuy": 87,
+    "trending": 6,
+    "categories": ["Luxury", "Sports"],
+    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 9.0,
+      "speed": 9.0,
+      "handling": 8.5,
+      "interior": 9.3,
+      "reliability": 8.5,
+      "value": 7.8
+    },
+    "mostLovedFeatures": [
+      { "feature": "Practical performance wagon", "count": 312 },
+      { "feature": "Quattro all-wheel drive", "count": 278 },
+      { "feature": "Understated styling", "count": 198 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Fuel consumption", "count": 123 }
+    ],
+    "recentReviews": [
+      {
+        "author": "David Mueller",
+        "initials": "DM",
+        "rating": 9.0,
+        "date": "4 days ago",
+        "text": "The RS6 is the ultimate daily driver. Supercar performance in a family wagon."
+      },
+      {
+        "author": "Sophie Green",
+        "initials": "SG",
+        "rating": 8.5,
+        "date": "3 weeks ago",
+        "text": "Everything you need and nothing you don't. The virtual cockpit is the best display in the game."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "McLaren 720S",
+    "brand": "McLaren",
+    "year": 2023,
+    "rating": 9.3,
+    "reviewCount": 156,
+    "wouldBuy": 86,
+    "trending": 9,
+    "categories": ["Sports", "Coupe"],
+    "image": "/src/assets/McLaren 720s.jpg",
+    "ratingBreakdown": {
+      "comfort": 7.5,
+      "speed": 9.9,
+      "handling": 9.7,
+      "interior": 8.2,
+      "reliability": 7.1,
+      "value": 6.5
+    },
+    "mostLovedFeatures": [
+      { "feature": "Active aerodynamics", "count": 128 },
+      { "feature": "Proactive chassis control", "count": 112 },
+      { "feature": "Mid-engine balance", "count": 98 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Dealer network gaps", "count": 54 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Jake Wilson",
+        "initials": "JW",
+        "rating": 9.6,
+        "date": "1 week ago",
+        "text": "The 720S corners like nothing else. It reads the road and adapts in real time. Mind-blowing."
+      },
+      {
+        "author": "Anna Kim",
+        "initials": "AK",
+        "rating": 9.0,
+        "date": "2 months ago",
+        "text": "Terrifying in the best possible way. If you want pure supercar experience, look no further."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Range Rover Sport",
+    "brand": "Land Rover",
+    "year": 2024,
+    "rating": 8.3,
+    "reviewCount": 634,
+    "wouldBuy": 76,
+    "trending": 11,
+    "categories": ["SUV", "Luxury"],
+    "image": "/src/assets/range rover sport.jpg",
+    "ratingBreakdown": {
+      "comfort": 9.4,
+      "speed": 7.8,
+      "handling": 7.5,
+      "interior": 9.5,
+      "reliability": 6.8,
+      "value": 7.0
+    },
+    "mostLovedFeatures": [
+      { "feature": "Luxurious interior", "count": 412 },
+      { "feature": "Off-road capability", "count": 289 },
+      { "feature": "Commanding road presence", "count": 267 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Reliability concerns", "count": 198 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Ben Thompson",
+        "initials": "BT",
+        "rating": 8.5,
+        "date": "6 days ago",
+        "text": "The interior is genuinely world-class. Every material and finish feels special."
+      },
+      {
+        "author": "Claire Adams",
+        "initials": "CA",
+        "rating": 8.0,
+        "date": "1 month ago",
+        "text": "Love everything about it except I've had to visit the dealer too many times in year one."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Toyota GR86",
+    "brand": "Toyota",
+    "year": 2023,
+    "rating": 8.6,
+    "reviewCount": 567,
+    "wouldBuy": 90,
+    "trending": 4,
+    "categories": ["Sports", "Coupe"],
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=800&q=80&fit=crop&auto=format",
+    "ratingBreakdown": {
+      "comfort": 7.2,
+      "speed": 8.0,
+      "handling": 9.2,
+      "interior": 7.5,
+      "reliability": 9.5,
+      "value": 9.4
+    },
+    "mostLovedFeatures": [
+      { "feature": "Pure driving feel", "count": 423 },
+      { "feature": "Affordable fun", "count": 389 },
+      { "feature": "Toyota reliability", "count": 312 }
+    ],
+    "leastLovedFeatures": [
+      { "feature": "Modest power output", "count": 156 }
+    ],
+    "recentReviews": [
+      {
+        "author": "Derek Chang",
+        "initials": "DC",
+        "rating": 9.0,
+        "date": "3 days ago",
+        "text": "Best driver's car for the money by a mile. The chassis is perfectly balanced."
+      },
+      {
+        "author": "Priya Singh",
+        "initials": "PS",
+        "rating": 8.5,
+        "date": "2 weeks ago",
+        "text": "Bought it for track days, use it daily. Incredibly reliable and communicative."
+      }
+    ]
+  }
+]
