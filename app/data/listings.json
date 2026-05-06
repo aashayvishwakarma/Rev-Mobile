@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Akrapovic Titanium Exhaust System",
+    "price": 8500,
+    "originalPrice": 12000,
+    "description": "Full titanium exhaust for Porsche 911 GT3. Used for 5k miles, perfect condition.",
+    "categories": ["#performance", "#porsche", "#exhaust"],
+    "condition": "Like New",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+  },
+  {
+    "id": "2",
+    "name": "BBS CH-R Wheels 20\"",
+    "price": 3200,
+    "originalPrice": 4800,
+    "description": "Set of 4 BBS CH-R forged wheels in matte black. Fitment 5x112, 20x9.5 ET35.",
+    "categories": ["#wheels", "#bmw", "#forged"],
+    "condition": "Good",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=400&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Bilstein B16 Coilover Kit",
+    "price": 1400,
+    "originalPrice": 1900,
+    "description": "Height and damping adjustable coilover kit. Fits VW Golf MK7. Barely used.",
+    "categories": ["#suspension", "#vw", "#coilovers"],
+    "condition": "Like New",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=400&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Eventuri Carbon Intake",
+    "price": 950,
+    "originalPrice": 1350,
+    "description": "Full carbon fiber cold air intake for BMW F80 M3. Gains 15-20whp over stock.",
+    "categories": ["#performance", "#bmw", "#intake"],
+    "condition": "Good",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1493238792000-8113da705763?w=400&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Recaro Pole Position Seat",
+    "price": 1800,
+    "originalPrice": 2600,
+    "description": "Single Recaro Pole Position bucket seat in black alcantara. FIA certified, fits most harness bars.",
+    "categories": ["#interior", "#recaro", "#seats"],
+    "condition": "Like New",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&q=80"
+  },
+  {
+    "id": "6",
+    "name": "HRE P101 Wheels 19\"",
+    "price": 5500,
+    "originalPrice": 7200,
+    "description": "Set of 4 HRE P101 monoblok wheels in brushed titanium. Fitment 5x120, 19x9.5.",
+    "categories": ["#wheels", "#hre", "#forged"],
+    "condition": "Good",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=400&q=80"
+  },
+  {
+    "id": "7",
+    "name": "Brembo GT Big Brake Kit",
+    "price": 4200,
+    "originalPrice": 6000,
+    "description": "6-piston front big brake kit in red. Fits 350mm rotors. Porsche Cayenne fitment.",
+    "categories": ["#brakes", "#brembo", "#porsche"],
+    "condition": "Like New",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=400&q=80"
+  },
+  {
+    "id": "8",
+    "name": "Garrett GTX3076R Turbo",
+    "price": 1100,
+    "originalPrice": 1600,
+    "description": "Ball bearing turbo with 0.82 A/R T3 housing. Low miles, no shaft play.",
+    "categories": ["#performance", "#turbo", "#garrett"],
+    "condition": "Good",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=400&q=80"
+  }
+]
