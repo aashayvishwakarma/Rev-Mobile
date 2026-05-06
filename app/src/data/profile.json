@@ -1,0 +1,23 @@
+{
+  "name": "John Doe",
+  "initials": "JD",
+  "bio": "Car enthusiast & weekend racer",
+  "badges": [
+    { "label": "Top Reviewer", "icon": "trophy" },
+    { "label": "Early Adopter", "icon": "zap" }
+  ],
+  "stats": {
+    "reviews": 24,
+    "followers": 1200,
+    "following": 847
+  },
+  "garage": [
+    { "carId": 1, "ownerRating": 9.5, "ownedSince": 2023 },
+    { "carId": 5, "ownerRating": 8.8, "ownedSince": 2022 }
+  ],
+  "driven": [
+    { "carId": 2, "drivenRating": 9.1, "drivenOn": "2024-08-12" },
+    { "carId": 3, "drivenRating": 8.4, "drivenOn": "2024-05-03" },
+    { "carId": 4, "drivenRating": 7.9, "drivenOn": "2024-02-18" }
+  ]
+}

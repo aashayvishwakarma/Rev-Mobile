@@ -28,7 +28,7 @@ function mapCar(row) {
   }
 }
 
-export default function SearchPage({ onSelectCar }) {
+export default function SearchPage({ onSelectCar, onTabChange }) {
   const [cars, setCars] = useState([])
   const [loading, setLoading] = useState(true)
   const [query, setQuery] = useState('')
@@ -97,7 +97,7 @@ export default function SearchPage({ onSelectCar }) {
         </div>
       </div>
 
-      <BottomNav active="search" />
+      <BottomNav active="search" onChange={onTabChange} />
 
       {showFilter && (
         <FilterPanel
